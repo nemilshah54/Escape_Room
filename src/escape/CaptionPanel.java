@@ -7,6 +7,8 @@ import java.awt.Font;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+
+// feature1.
 public class CaptionPanel extends JPanel{	
 	public JLabel lab;  int size;
 	
@@ -17,7 +19,7 @@ public class CaptionPanel extends JPanel{
 		add(lab);
 
 		// dcd////
-		/// 
+		///
 	}
 	
 	public JLabel getText()
