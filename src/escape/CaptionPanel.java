@@ -15,6 +15,9 @@ public class CaptionPanel extends JPanel{
 	{
 		lab= new JLabel("Grab the Donut...Find the TV remote... Dog is hiding something...");
 		add(lab);
+
+		// dcd////
+		/// 
 	}
 	
 	public JLabel getText()
