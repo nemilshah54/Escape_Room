@@ -15,7 +15,7 @@ import javax.swing.plaf.basic.BasicArrowButton;
 import Multiple_Rooms.EnterRoom;
 
 
-
+// feature 2.
 public class ArrowPanel extends JPanel implements ActionListener{
 	
 	EnterRoom par; 	BasicArrowButton arr;  	CardLayout card;
