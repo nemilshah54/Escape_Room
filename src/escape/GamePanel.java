@@ -11,6 +11,7 @@ import javax.swing.JPanel;
 import Multiple_Rooms.EnterRoom;
 
 
+// feature 3.
 public class GamePanel extends JPanel{
 	
 	public CaptionPanel caption;
